@@ -15,8 +15,8 @@ I'm a passionate data analyst and aspiring AI developer with a keen interest in 
 - **Frameworks**: Pandas, NumPy, Scikit-Learn
 
 ### 🌍 Projects
-- **[UKIO Case Study](link-to-your-kaggle-project)**: Analyzing trends in user behavior and engagement metrics.
-- **[Your Other Projects](#)**: Brief descriptions or links to your notable projects, showcasing your versatility and skills.
+- **[UKIO Case Study](https://www.kaggle.com/code/sofianehr/ukio-case-study)**: Analyzing trends in user behavior and engagement metrics.
+- **[UKIO Dashboard](https://public.tableau.com/app/profile/sofiane.harsal/viz/ukio_17042984318120/Dashboard)**: A dynamic Tableau dashboard visualizing key metrics and trends from the UKIO case study, providing insights through interactive charts and data filters.
 
 ### 📈 Skills
 - **Data Visualization**: Proficient in creating insightful dashboards and reports.
@@ -24,8 +24,8 @@ I'm a passionate data analyst and aspiring AI developer with a keen interest in 
 - **Collaboration**: Strong team player with experience in agile methodologies.
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](link-to-your-linkedin)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Sofiane Harsal](https://www.linkedin.com/in/sofiane-harsal/)
+- **Email**: [haarsal@gmail.com](mailto:haarsal@gmail.com)
 
 ### 📚 Learn More
 Check out my repositories for more projects and insights into my work. Let's connect and collaborate on exciting opportunities!
