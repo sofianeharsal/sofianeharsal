@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sofiane Harsal
 
 ### 🌱 About Me
-I'm a passionate data analyst and aspiring AI developer with a keen interest in leveraging data to drive impactful solutions. Currently enrolled in a training program at Simplon, I'm honing my skills in SQL, cloud technologies, and data visualization tools. 
+I’m a data analyst passionate about using data to drive impactful solutions. Currently enhancing my skills in SQL, cloud technologies, data visualization, and diving into AI and machine learning. 
 
 ### 🚀 What I Do
 - **Data Analysis**: Transforming raw data into actionable insights.
